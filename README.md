@@ -2,7 +2,7 @@
 
 Spring AI JDD 2025 Presentation
 
-## Code for JUG presentation - "RAG SpringAI"
+## Code for JDD 2025 presentation - "SpringAI & MCP"
 
 ## Guide
 
